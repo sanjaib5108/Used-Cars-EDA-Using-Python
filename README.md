@@ -1,4 +1,4 @@
-# Used-Cars-EDA-Using-Python
+# Used Cars Exploratory Data Analysis Using Python
 
 # Project Description
 Used Cars EDA using Python is a guided project to see the trends in used car sales in India Car Market.
